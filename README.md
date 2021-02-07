@@ -1,1 +1,1 @@
-# javascript-problem-solving
+# problem-solving
